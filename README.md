@@ -3,7 +3,7 @@
 
 I'm Ayan, a highschool student from Bangladesh. I like to code in NodeJS and C++, I love making Discord bots and I to be a video game developer in future.
 
-[![Ayan's github stats](https://github-readme-stats.vercel.app/api?username=theRealAyan&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=theRealAyan&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theRealAyan)](https://github.com/theRealAyan/github-readme-stats)
 
