@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=theRealAyan&color=blue)
 ## Hello There !
 
 I'm Ayan, a highschool student from Bangladesh. I like to code in NodeJS and C++, I love making Discord bots and I to be a video game developer in future.
