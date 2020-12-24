@@ -5,6 +5,7 @@ I'm Ayan, a highschool student from Bangladesh. I like to code in NodeJS and C++
 
 <p align="center">
   <img width="75%" align="center" src="https://github-readme-stats.vercel.app/api?username=theRealAyan&show_icons=true&theme=radical" /> <br/>
+  <br/>
   <img width="75%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theRealAyan&theme=radical&layout=compact" />
 </p>
 
