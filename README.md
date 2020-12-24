@@ -4,8 +4,8 @@
 I'm Ayan, a highschool student from Bangladesh. I like to code in NodeJS and C++, I love making Discord bots and I want to be a video game developer in future.
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theRealAyan&show_icons=true&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theRealAyan&theme=radical&layout=compact" />
+  <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=theRealAyan&show_icons=true&theme=radical" />
+  <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theRealAyan&theme=radical&layout=compact" />
 
 
 - 🔭 I’m currently working on a Discord bot ([Mitsuha](https://github.com/theRealAyan/mitsuha-project))
