@@ -14,6 +14,6 @@ I'm Ayan, a highschool student from Bangladesh. I like to code in NodeJS and C++
   </tr>
 </table>
 
-- 🔭 I’m currently working on a Discord bot ([Mitsuha](https://github.com/theRealAyan/mitsuha-project))
-- 🌱 I’m currently learning C++
-- 😄 Pronouns: he/him
+I'm currently learning TypeScript and Rust.
+
+> Pronouns: he/him
