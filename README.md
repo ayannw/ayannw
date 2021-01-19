@@ -3,6 +3,8 @@
 
 I'm Ayan, a highschool student from Bangladesh. I like to code in  Node.js & TypeScript, I love making Discord bots and I want to be a video game developer in future.
 
+#### My pog stats:
+
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
