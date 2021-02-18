@@ -1,21 +1,14 @@
-![](https://komarev.com/ghpvc/?username=theRealAyan&style=flat-square)
-### Hello There ! 👋🏼
+![](https://komarev.com/ghpvc/?username=ayannw)
+# Hello There ! 👋🏼
 
-I'm Ayan, a highschool student from Bangladesh. I like to code in  Node.js & TypeScript, I love making Discord bots and I want to be a video game developer in future.
+I'm Ayan, a highschool student from Bangladesh. I like to code in NodeJS and C++, I love making Discord bots and I want to be a video game developer in future.
 
-#### My pog stats:
+<p align="center">
+  <img width="75%" align="center" src="https://github-readme-stats.vercel.app/api?username=ayannw&show_icons=true&theme=radical" /> <br/>
+  <br/>
+  <img width="75%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayannw&theme=radical&layout=compact" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theRealAyan&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=skyra-project/skyra,skyra.pw,alestra,skyra-sharp,lycore,aurora,char,timestamp,anti-user-gateway,orm,eslint-config;binarytf/binarytf;discordjs/discord.js,collection;novariableglobal/mood,g.shift,global-engine;sapphire-project/framework,pieces,plugins,utilities" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=theRealAyan&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-    </td>
-  </tr>
-</table>
-
-I'm currently learning TypeScript and Rust.
-
-> Pronouns: he/him
+- 🔭 I’m currently working on a Discord bot ([Mitsuha](https://github.com/theRealAyan/mitsuha-project))
+- 🌱 I’m currently learning C++
+- 😄 Pronouns: he/him
