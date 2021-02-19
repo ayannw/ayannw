@@ -1,4 +1,3 @@
-> ![](https://komarev.com/ghpvc/?username=ayannw)
 <div align="center">
     <h2 id="hello"> Hello There ! 👋🏼</h2>
 
@@ -26,3 +25,7 @@ I'm **Ayan**, a highschool student from Bangladesh. I like to code in Node.js an
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 </div>
+
+<br/>
+
+> ![](https://komarev.com/ghpvc/?username=ayannw)
