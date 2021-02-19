@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=ayannw)
-### Hello There ! 👋🏼
+## Hello There ! 👋🏼
 
 I'm Ayan, a highschool student from Bangladesh. I like to code in Node.js and TypeScript, I love making Discord bots and I want to be a video game developer in future.
 
@@ -14,8 +14,8 @@ I'm Ayan, a highschool student from Bangladesh. I like to code in Node.js and Ty
   </tr>
 </table>
 
-#### Skills
 <div align="center">
+         <h3 id="skills">Skills</h3>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
