@@ -14,5 +14,3 @@ I'm Ayan, a highschool student from Bangladesh. I like to code in Node.js, I lov
   </tr>
 </table>
 I'm currently learning TypeScript and C#.
-
-> Pronouns: he/him
