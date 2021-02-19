@@ -6,10 +6,10 @@ I'm **Ayan**, a highschool student from Bangladesh. I like to code in Node.js an
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayannw&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayannw&layout=compact&show_icons=true&title_color=007ACC&text_color=ffffff&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=ayannw&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=ayannw&show_icons=true&title_color=007ACC&text_color=ffffff&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
     </td>
   </tr>
 </table>
