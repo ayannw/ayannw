@@ -1,8 +1,8 @@
-![](https://komarev.com/ghpvc/?username=ayannw)
+> ![](https://komarev.com/ghpvc/?username=ayannw)
 <div align="center">
     <h2 id="hello"> Hello There ! 👋🏼</h2>
 
-I'm Ayan, a highschool student from Bangladesh. I like to code in Node.js and TypeScript, I love making Discord bots and I want to be a video game developer in future.
+I'm **Ayan**, a highschool student from Bangladesh. I like to code in Node.js and TypeScript, I love making Discord bots and I want to be a video game developer in future.
 </div>
 <table>
   <tr>
